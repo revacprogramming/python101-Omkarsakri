@@ -6,3 +6,4 @@ obj = test()
 obj.price = 100;
 obj.quantity = 5;
 obj.calculate(obj.price,obj.quantity);
+om
