@@ -16,3 +16,4 @@ lst.sort()
 print(lst)
 """for t in lst:
     print(t[0], t[1])"""
+om
