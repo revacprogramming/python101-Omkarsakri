@@ -13,3 +13,4 @@ while True:
       break
    print(data.decode())
 soc.close()
+om
