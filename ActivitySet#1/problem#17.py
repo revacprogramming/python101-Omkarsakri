@@ -21,3 +21,4 @@ for item in lst:
     
 print ('Count:', count)
 print ('Sum:' , total)
+#om
