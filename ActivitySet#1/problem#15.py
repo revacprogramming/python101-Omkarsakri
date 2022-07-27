@@ -15,3 +15,4 @@ tags = soup('span')
 for tag in tags:
     sum = sum+int(tag.contents[0])
 print(sum)
+#okm
