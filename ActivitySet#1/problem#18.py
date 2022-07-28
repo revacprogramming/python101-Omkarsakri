@@ -16,3 +16,4 @@ for i in range(len(data)):
     total = total + int(value)
 print("Count:",num)
 print("Sum:",total)
+#om
