@@ -9,3 +9,4 @@ for l in file:
     for i in lst:
         sum += int(i)
 print(sum)
+#om
